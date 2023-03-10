@@ -1,0 +1,28 @@
+//variables
+@import './variables.scss';
+
+//body styles
+@import './body.scss';
+
+@import './header.scss';
+@import './footer.scss';
+
+// sections
+@import './search-banner-section.scss';
+@import './best-prices-section.scss';
+@import './categories-banner-section.scss';
+@import './learn-more-section.scss';
+@import './choose-us-section.scss';
+@import './question-left-section.scss';
+@import './neeed-help-section.scss';
+
+//search page
+@import './search-page-bar-section.scss';
+@import './search-page-result-section.scss';
+
+//card
+@import './card.scss';
+@import './card-section.scss';
+
+//slider
+@import './slider.scss';

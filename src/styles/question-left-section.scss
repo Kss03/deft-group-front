@@ -1,0 +1,32 @@
+.question-left-section {
+    background-color: $second-color;
+
+    .section-title {
+        color: $section-title-color;
+        font-weight: 600;
+        font-size: 44px;
+        line-height: 52px;
+    }
+
+    .section-form {
+
+        .form-control {
+            width: 327px;
+            height: 45px;
+            border-radius: 30px;
+        }
+
+        .btn-send {
+            height: 45px;
+            border-radius: 30px;
+            background-color: $third-color;
+            color: $third-bf-color;
+        }
+
+        .btn-send:hover {
+            background-color: $third-color-hover;
+            transition: background-color .3s ease-in-out;
+        }
+
+    }
+}
